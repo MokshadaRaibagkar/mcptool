@@ -65,11 +65,6 @@ A lightweight AI agent powered by [MCP (Modular Connector Protocol)](https://git
 uv run server/client.py
 ```
 
-**Available commands:**
-- `Provide me weather alerts for NY` - Get alerts for New York
-- `clear` - Reset conversation memory
-- `exit` - Quit the application
-
 ### Option 2: MCP Dev Server (for testing)
 ```bash
 uv run mcp dev server/weather.py
@@ -149,8 +144,8 @@ Weather Alert Agent initialized! Ask me about weather alerts.
 
 **Mokshada Raibagkar**
 
-- GitHub: [@mokshada-raibagkar](https://github.com/MokshadaRaibagkar)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mokshada-raibagkar)
+- [Github](https://github.com/MokshadaRaibagkar)
+- [LinkedIn](https://linkedin.com/in/mokshada-raibagkar)
 
 ---
 

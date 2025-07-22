@@ -1,0 +1,6 @@
+mcp[cli]
+mcp-use
+langchain
+langchain-groq
+python-dotenv
+httpx
